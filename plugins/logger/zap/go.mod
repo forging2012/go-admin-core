@@ -1,4 +1,4 @@
-module github.com/go-admin-team/go-admin-core/plugins/logger/zap
+module github.com/forging2012/go-admin-core/plugins/logger/zap
 
 go 1.18
 
